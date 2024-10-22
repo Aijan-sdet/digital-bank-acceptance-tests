@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CreateCheckingPage extends BaseMenuPage{
 
-    private String getExpectedUrl="https://dbank-qa.wedevx.co/bank/account/checking-add";
+    private String getExpectedUrl="http://aijanjak1940.mydevx.com/bank/account/checking-add";
 
 
 
